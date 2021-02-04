@@ -1,0 +1,1013 @@
+{
+  "status": 1,
+  "data": {
+    "products": [
+      {
+        "productId": 232204,
+        "name": "Navratna Ayurvedic Cool Hair Oil Bottle Of 200 Ml",
+        "slug": "navratna-ayurvedic-cool-hair-oil-bottle-of-200-ml-232204",
+        "manufacturer": "Navratna",
+        "productType": 2,
+        "mrpDecimal": "138.00",
+        "salePriceDecimal": "131.10",
+        "discountDecimal": "6.90",
+        "discountPercent": "5",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/Y86033/navratna-ayurvedic-cool-hair-oil-200ml-1.jpg",
+            "face": "unknown",
+            "sequence": "1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/Y86033/navratna-ayurvedic-cool-hair-oil-200ml-2.jpg",
+            "face": "unknown",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/Y86033/navratna-ayurvedic-cool-hair-oil-200ml-3.jpg",
+            "face": "unknown",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/Y86033/navratna-ayurvedic-cool-hair-oil-200ml-4.jpg",
+            "face": "unknown",
+            "sequence": "4"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/Y86033/navratna-ayurvedic-cool-hair-oil-200ml-1.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 501863,
+        "name": "Sapat Dr. Skin Lotion - 12 Ml",
+        "slug": "sapat-dr-skin-lotion---12-ml-501863",
+        "manufacturer": "SAPAT",
+        "productType": 2,
+        "mrpDecimal": "35.00",
+        "salePriceDecimal": "31.50",
+        "discountDecimal": "3.50",
+        "discountPercent": "10",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/M60976/sapat-dr-skin-lotion-12-ml-2-1601708400.jpg",
+            "face": "front",
+            "sequence": "2"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/M60976/sapat-dr-skin-lotion-12-ml-2-1601708400.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 235525,
+        "name": "Liveasy Wellness Diabetic Protein - Blood Sugar & Weight Management - French Vanilla 200g Jar",
+        "slug": "liveasy-wellness-diabetic-protein---blood-sugar-weight-management---french-vanilla-200g-jar-235525",
+        "manufacturer": "LivEasy",
+        "productType": 2,
+        "mrpDecimal": "549.00",
+        "salePriceDecimal": "285.48",
+        "discountDecimal": "263.52",
+        "discountPercent": "48",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/W25423/liveasy-wellness-diabetic-protein-blood-sugar-weight-management-french-vanilla-200g-jar-2-1602239418.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/W25423/liveasy-wellness-diabetic-protein-blood-sugar-weight-management-french-vanilla-200g-jar-6.1-1602239432.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/W25423/liveasy-wellness-diabetic-protein-blood-sugar-weight-management-french-vanilla-200g-jar-6.2-1602239432.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/W25423/liveasy-wellness-diabetic-protein-blood-sugar-weight-management-french-vanilla-200g-jar-6.3-1602239432.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/W25423/liveasy-wellness-diabetic-protein-blood-sugar-weight-management-french-vanilla-200g-jar-6.4-1602239432.jpg",
+            "face": "side",
+            "sequence": "6.4"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/W25423/liveasy-wellness-diabetic-protein-blood-sugar-weight-management-french-vanilla-200g-jar-2-1602239418.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 216670,
+        "name": "New Hair 4u 5% Hair Spray Bottle Of 60 Ml",
+        "slug": "new-hair-4u-5-hair-spray-bottle-of-60-ml-216670",
+        "manufacturer": "Hair 4U",
+        "productType": 2,
+        "mrpDecimal": "736.00",
+        "salePriceDecimal": "552.00",
+        "discountDecimal": "184.00",
+        "discountPercent": "25",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I42413/new-hair-4u-5-hair-spray-bottle-of-60-ml-1-1605104937.jpg",
+            "face": "box-front",
+            "sequence": "1"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/I42413/new-hair-4u-5-hair-spray-bottle-of-60-ml-1-1605104937.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 21836,
+        "name": "Selsun Shampoo 120ml",
+        "slug": "selsun-shampoo-120ml-21836",
+        "manufacturer": "SELSUN",
+        "productType": 2,
+        "mrpDecimal": "348.63",
+        "salePriceDecimal": "278.90",
+        "discountDecimal": "69.73",
+        "discountPercent": "20",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/157655/selsun-shampoo-120ml-2-1603774486.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products/157655/selsun-shampoo-120ml-side-6.1-1603703639.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products/157655/selsun-shampoo-120ml-side-6.2-1603703639.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products/157655/selsun-shampoo-120ml-back-7-1603703639.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/157655/selsun-shampoo-120ml-2-1603774486.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 484622,
+        "name": "Amrutanjan Comfy Ultra Xl  Sanitary Pads  Packet Of 6",
+        "slug": "amrutanjan-comfy-ultra-xl-sanitary-pads-packet-of-6-484622",
+        "manufacturer": "Amrutanjan",
+        "productType": 2,
+        "mrpDecimal": "39.00",
+        "salePriceDecimal": "33.15",
+        "discountDecimal": "5.85",
+        "discountPercent": "15",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/U60635/amrutanjan-comfy-ultra-xl-6-pads-1.jpg",
+            "face": "unknown",
+            "sequence": "1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/U60635/amrutanjan-comfy-ultra-xl-6-pads-2.jpg",
+            "face": "unknown",
+            "sequence": "2"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/U60635/amrutanjan-comfy-ultra-xl-6-pads-1.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 23109,
+        "name": "Revital H Woman Health Supplement Tablets Strip Of 10",
+        "slug": "revital-h-woman-health-supplement-tablets-strip-of-10-23109",
+        "manufacturer": "REVITAL",
+        "productType": 2,
+        "mrpDecimal": "120.00",
+        "salePriceDecimal": "102.00",
+        "discountDecimal": "18.00",
+        "discountPercent": "15",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-1-1598247126.jpg",
+            "face": "box-front",
+            "sequence": "1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-2-1598247126.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-3-1598247126.jpg",
+            "face": "combo",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-4-1598247126.jpg",
+            "face": "box-back",
+            "sequence": "4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-7-1598247126.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-1-1598247126.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 188925,
+        "name": "Perfectil Skin Care Tablets Box Of 30",
+        "slug": "perfectil-skin-care-tablets-box-of-30-188925",
+        "manufacturer": "PERFECTIL",
+        "productType": 2,
+        "mrpDecimal": "570.00",
+        "salePriceDecimal": "484.50",
+        "discountDecimal": "85.50",
+        "discountPercent": "15",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/369035/perfectil-skin-care-tablets-box-of-30-1-1607525196.jpg",
+            "face": "box-front",
+            "sequence": "1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/369035/perfectil-skin-care-tablets-box-of-30-2-1607525447.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/369035/perfectil-skin-care-tablets-box-of-30-3-1607525196.jpg",
+            "face": "combo",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/369035/perfectil-skin-care-tablets-box-of-30-4-1607525149.jpg",
+            "face": "box-back",
+            "sequence": "4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/369035/perfectil-skin-care-tablets-box-of-30-6.1-1607525090.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/369035/perfectil-skin-care-tablets-box-of-30-6.2-1601980388.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/369035/perfectil-skin-care-tablets-box-of-30-6.3-1601980448.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/369035/perfectil-skin-care-tablets-box-of-30-7-1607525197.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/369035/perfectil-skin-care-tablets-box-of-30-1-1607525196.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 234978,
+        "name": "Liveasy Wellness Apple Cider Vinegar 500mg - Digestion Support Tablets - Weight Management - Bottle Of 60",
+        "slug": "liveasy-wellness-apple-cider-vinegar-500mg---digestion-support-tablets---weight-management---bottle-of-60-234978",
+        "manufacturer": "LivEasy",
+        "productType": 2,
+        "mrpDecimal": "599.00",
+        "salePriceDecimal": "311.48",
+        "discountDecimal": "287.52",
+        "discountPercent": "48",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T00237/liveasy-wellness-apple-cider-vinegar-500mg-digestion-support-tablets-weight-management-bottle-of-60-2-1608817512.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T00237/liveasy-wellness-apple-cider-vinegar-500mg-digestion-support-tablets-weight-management-bottle-of-60-6.1-1608817512.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T00237/liveasy-wellness-apple-cider-vinegar-500mg-digestion-support-tablets-weight-management-bottle-of-60-7-1608817637.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/T00237/liveasy-wellness-apple-cider-vinegar-500mg-digestion-support-tablets-weight-management-bottle-of-60-2-1608817512.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 171172,
+        "name": "Whisper Ultra Overnight Size Xl Plus Sanitary Pads Packet Of 7",
+        "slug": "whisper-ultra-overnight-size-xl-plus-sanitary-pads-packet-of-7-171172",
+        "manufacturer": "WHISPER",
+        "productType": 2,
+        "mrpDecimal": "88.00",
+        "salePriceDecimal": "82.72",
+        "discountDecimal": "5.28",
+        "discountPercent": "6",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I05121/whisper-ultra-overnight-sanitary-pads-xl-plus-7-pc-pack-1.jpg",
+            "face": "unknown",
+            "sequence": "1"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05121/whisper-ultra-overnight-sanitary-pads-xl-plus-7-pc-pack-1.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 178430,
+        "name": "Dettol Germ Protection Bathing Bar Soap Original - 125 G",
+        "slug": "dettol-germ-protection-bathing-bar-soap-original---125-g-178430",
+        "manufacturer": "Dettol",
+        "productType": 2,
+        "mrpDecimal": "50.00",
+        "salePriceDecimal": "47.50",
+        "discountDecimal": "2.50",
+        "discountPercent": "5",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/054560/dettol-germ-protection-bathing-bar-soap-original-125g-1.jpg",
+            "face": "unknown",
+            "sequence": "1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/054560/dettol-germ-protection-bathing-bar-soap-original-125g-2.jpg",
+            "face": "unknown",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/054560/dettol-germ-protection-bathing-bar-soap-original-125g-3.jpg",
+            "face": "unknown",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/054560/dettol-germ-protection-bathing-bar-soap-original-125g-4.jpg",
+            "face": "unknown",
+            "sequence": "4"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/054560/dettol-germ-protection-bathing-bar-soap-original-125g-1.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 215185,
+        "name": "Nivea Lip Care Sweet Strawberry 4.8g Limited Edition",
+        "slug": "nivea-lip-care-sweet-strawberry-4-8g-limited-edition-215185",
+        "manufacturer": "NIVEA",
+        "productType": 2,
+        "mrpDecimal": "185.00",
+        "salePriceDecimal": "166.50",
+        "discountDecimal": "18.50",
+        "discountPercent": "10",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I40928/nivea-lip-care-sweet-strawberry-48g-limited-edition-2-1601730537.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I40928/nivea-lip-care-sweet-strawberry-48g-limited-edition-6.1-1601730505.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I40928/nivea-lip-care-sweet-strawberry-48g-limited-edition-6.2-1601730590.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I40928/nivea-lip-care-sweet-strawberry-48g-limited-edition-6.3-1601730537.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I40928/nivea-lip-care-sweet-strawberry-48g-limited-edition-6.4-1601730505.jpg",
+            "face": "side",
+            "sequence": "6.4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I40928/nivea-lip-care-sweet-strawberry-48g-limited-edition-7-1601730505.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40928/nivea-lip-care-sweet-strawberry-48g-limited-edition-2-1601730537.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 234976,
+        "name": "Everherb Shilajit 500mg - Natural Vigour Improvement Capsules - Strength & Stamina For Men - Bottle Of 60",
+        "slug": "everherb-shilajit-500mg---natural-vigour-improvement-capsules---strength-stamina-for-men---bottle-of-60-234976",
+        "manufacturer": "EverHerb",
+        "productType": 2,
+        "mrpDecimal": "999.00",
+        "salePriceDecimal": "519.48",
+        "discountDecimal": "479.52",
+        "discountPercent": "48",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/N70299/everherb-shilajit-500mg-natural-vigour-improvement-capsules-strength-stamina-for-men-bottle-of-60-2-1600173673.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/N70299/everherb-shilajit-500mg-natural-vigour-improvement-capsules-strength-stamina-for-men-bottle-of-60-6.1-1600173673.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/N70299/everherb-shilajit-500mg-natural-vigour-improvement-capsules-strength-stamina-for-men-bottle-of-60-6.2-1600173666.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/N70299/everherb-shilajit-500mg-natural-vigour-improvement-capsules-strength-stamina-for-men-bottle-of-60-2-1600173673.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 172735,
+        "name": "Venusia Moisturizing Lotion - 100ml",
+        "slug": "venusia-moisturizing-lotion---100ml-172735",
+        "manufacturer": "Venusia",
+        "productType": 2,
+        "mrpDecimal": "361.00",
+        "salePriceDecimal": "306.85",
+        "discountDecimal": "54.15",
+        "discountPercent": "15",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/209143/venusia-moisturizing-lotion-100ml-2-1597365771.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/209143/venusia-moisturizing-lotion-100ml-7-1597365770.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/209143/venusia-moisturizing-lotion-100ml-2-1597365771.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 499857,
+        "name": "Colgate Anticavity Kids Batman Bubble Fruit Toothpaste (6+ Years) Tube Of 80 G",
+        "slug": "colgate-anticavity-kids-batman-bubble-fruit-toothpaste-6-years-tube-of-80-g-499857",
+        "manufacturer": "COLGATE",
+        "productType": 2,
+        "mrpDecimal": "90.00",
+        "salePriceDecimal": "76.50",
+        "discountDecimal": "13.50",
+        "discountPercent": "15",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/F65626/colgate-anticavity-kids-batman-toothpaste-6-years-bubble-fruit-flavour-80g-2-1597367211.jpg",
+            "face": "front",
+            "sequence": "2"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/F65626/colgate-anticavity-kids-batman-toothpaste-6-years-bubble-fruit-flavour-80g-2-1597367211.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 32200,
+        "name": "Dabur Gulabari Bottle Of 250 Ml",
+        "slug": "dabur-gulabari-bottle-of-250-ml-32200",
+        "manufacturer": "DABUR",
+        "productType": 2,
+        "mrpDecimal": "75.00",
+        "salePriceDecimal": "67.50",
+        "discountDecimal": "7.50",
+        "discountPercent": "10",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/051290/dabur-gulabari-250ml-1-1595950748.jpg",
+            "face": "unknown",
+            "sequence": "1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/051290/dabur-gulabari-250ml-2.jpg",
+            "face": "unknown",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/051290/dabur-gulabari-250ml-3.jpg",
+            "face": "unknown",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/051290/dabur-gulabari-250ml-4.jpg",
+            "face": "unknown",
+            "sequence": "4"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/051290/dabur-gulabari-250ml-1-1595950748.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 487608,
+        "name": "Parachute Advansed Ayurvedic Hot  Hair Oil  Bottle Of 490 Ml (free 90 Ml Pack)",
+        "slug": "parachute-advansed-ayurvedic-hot-hair-oil-bottle-of-490-ml-free-90-ml-pack--487608",
+        "manufacturer": "PARACHUTE",
+        "productType": 2,
+        "mrpDecimal": "230.00",
+        "salePriceDecimal": "207.00",
+        "discountDecimal": "23.00",
+        "discountPercent": "10",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/V65294/parachute-advansed-ayurvedic-hot-oil-400-ml-free-90-ml-pack-1-1596183025.jpg",
+            "face": "unknown",
+            "sequence": "1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/V65294/parachute-advansed-ayurvedic-hot-oil-400-ml-free-90-ml-pack-2-1596183028.jpg",
+            "face": "unknown",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/V65294/parachute-advansed-ayurvedic-hot-oil-400-ml-free-90-ml-pack-3-1596183028.jpg",
+            "face": "unknown",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/V65294/parachute-advansed-ayurvedic-hot-oil-400-ml-free-90-ml-pack-4-1596183028.jpg",
+            "face": "unknown",
+            "sequence": "4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/V65294/parachute-advansed-ayurvedic-hot-oil-400-ml-free-90-ml-pack-5-1596183029.jpg",
+            "face": "unknown",
+            "sequence": "5"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/V65294/parachute-advansed-ayurvedic-hot-oil-400-ml-free-90-ml-pack-1-1596183025.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 223180,
+        "name": "Anchor Clove Power Saver Pack Box Of 350 G (175gm X 2)",
+        "slug": "anchor-clove-power-saver-pack-box-of-350-g-175gm-x-2--223180",
+        "manufacturer": "ANCHOR",
+        "productType": 2,
+        "mrpDecimal": "190.00",
+        "salePriceDecimal": "114.00",
+        "discountDecimal": "76.00",
+        "discountPercent": "40",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/S58327/anchor-clove-power-saver-pack-175gm-x-2-1-1593609574.jpg",
+            "face": "unknown",
+            "sequence": "1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/S58327/anchor-clove-power-saver-pack-175gm-x-2-2-1593609574.jpg",
+            "face": "unknown",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/S58327/anchor-clove-power-saver-pack-175gm-x-2-3-1593609579.jpg",
+            "face": "unknown",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/S58327/anchor-clove-power-saver-pack-175gm-x-2-4-1593609579.jpg",
+            "face": "unknown",
+            "sequence": "4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/S58327/anchor-clove-power-saver-pack-175gm-x-2-5-1593609579.jpg",
+            "face": "unknown",
+            "sequence": "5"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/S58327/anchor-clove-power-saver-pack-175gm-x-2-6-1593609584.jpg",
+            "face": "unknown",
+            "sequence": "6"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/S58327/anchor-clove-power-saver-pack-175gm-x-2-7-1593609584.jpg",
+            "face": "unknown",
+            "sequence": "7"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/S58327/anchor-clove-power-saver-pack-175gm-x-2-1-1593609574.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 191856,
+        "name": "Colgate Toothpaste - Maxfresh Peppermint Ice - 150 G - Blue Gel",
+        "slug": "colgate-toothpaste---maxfresh-peppermint-ice---150-g---blue-gel-191856",
+        "manufacturer": "COLGATE",
+        "productType": 2,
+        "mrpDecimal": "95.00",
+        "salePriceDecimal": "90.25",
+        "discountDecimal": "4.75",
+        "discountPercent": "5",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I12601/colgate-toothpaste-maxfresh-peppermint-ice-150-g-blue-gel-2-1601731311.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I12601/colgate-toothpaste-maxfresh-peppermint-ice-150-g-blue-gel-6.1-1601731362.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I12601/colgate-toothpaste-maxfresh-peppermint-ice-150-g-blue-gel-7-1601731353.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/I12601/colgate-toothpaste-maxfresh-peppermint-ice-150-g-blue-gel-2-1601731311.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      },
+      {
+        "productId": 215168,
+        "name": "Nivea Body Milk  Moisturizing Lotion  Bottle Of 400 Ml",
+        "slug": "nivea-body-milk-moisturizing-lotion-bottle-of-400-ml-215168",
+        "manufacturer": "NIVEA",
+        "productType": 2,
+        "mrpDecimal": "399.00",
+        "salePriceDecimal": "359.10",
+        "discountDecimal": "39.90",
+        "discountPercent": "10",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I40905/nivea-body-milk-moisturizing-lotion-bottle-of-400-ml-2-1601731732.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I40905/nivea-body-milk-moisturizing-lotion-bottle-of-400-ml-6.1-1601731701.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I40905/nivea-body-milk-moisturizing-lotion-bottle-of-400-ml-6.2-1601731793.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I40905/nivea-body-milk-moisturizing-lotion-bottle-of-400-ml-6.3-1601731732.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I40905/nivea-body-milk-moisturizing-lotion-bottle-of-400-ml-6.4-1601731732.jpg",
+            "face": "side",
+            "sequence": "6.4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I40905/nivea-body-milk-moisturizing-lotion-bottle-of-400-ml-7-1601731701.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": false,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40905/nivea-body-milk-moisturizing-lotion-bottle-of-400-ml-2-1601731732.jpg?dim=300x0&f=jpg&dpr=1&q=60"
+        ]
+      }
+    ],
+    "queryParams": {
+      "page": "1",
+      "perPage": 20,
+      "city": "1",
+      "subCategoryId": null,
+      "categoryId": "87",
+      "sort": null,
+      "direction": null,
+      "brandIds": [],
+      "priceBuckets": []
+    }
+  }
+}
